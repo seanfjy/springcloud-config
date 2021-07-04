@@ -1,1 +1,2 @@
-info{springcloud-config/config-test.yml}
+config:
+  info: "main brance,springcloud-config/config-test.yml version=1"}
